@@ -1,0 +1,37 @@
+---
+title: "Li Hsuan Cung"
+image: profile1.jpg
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/lihsuanchung
+    - icon: envelope 
+      text: Email
+      href: mailto:lchu0041@student.monash.edu
+---
+
+
+      Hi, I'm Li-Hsuan Chung, currently pursuing a Master's in Business Analytics at Monash University. 
+      I have a deep interest in data analysis and visualization, and I’m always excited to explore new 
+      insights through visualizing data. In addition to my academic pursuits, I enjoy swimming and traveling. 
+
+
+## Contact
+
+```{r, echo=FALSE}
+library(knitr)
+library(kableExtra)
+
+data <- data.frame(
+  name = c("GitHub", "E-mail"),
+  link = c('<a href="https://github.com/lihsuanchung">https://github.com/lihsuanchung</a>', 
+            '<a href="mailto:lchu0041@student.monash.edu">lchu0041@student.monash.edu</a>'),
+  stringsAsFactors = FALSE
+)
+
+table <- kable(data, escape = FALSE, col.names = c("", ""), row.names = FALSE)
+
+table
+```

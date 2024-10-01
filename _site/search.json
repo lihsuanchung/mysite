@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ETC5523 Blog Assessment",
+    "section": "",
+    "text": "People Are Living Longer Than Ever\n\n\n\n\n\n\nblog\n\n\n\n\n\n\n\n\n\nSep 29, 2024\n\n\nLi-Hsuan, Chung\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Li Hsuan Cung",
+    "section": "",
+    "text": "Hi, I'm Li-Hsuan Chung, currently pursuing a Master's in Business Analytics at Monash University. \n  I have a deep interest in data analysis and visualization, and I’m always excited to explore new \n  insights through visualizing data. In addition to my academic pursuits, I enjoy swimming and traveling."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "People Are Living Longer Than Ever",
+    "section": "",
+    "text": "Why are people living so much longer now? A hundred years ago, the average lifespan was 40 years, and now it’s over 70. This blog explores the reasons behind this rise. We’ll also look at how men and women are experiencing this trend differently and how various regions of the world compare."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "Li Hsuan Cung",
+    "section": "Contact",
+    "text": "Contact\n\n\n\n\n\n\n\n\n\nGitHub\nhttps://github.com/lihsuanchung\n\n\nE-mail\nlchu0041@student.monash.edu"
+  },
+  {
+    "objectID": "posts/welcome/index.html#executive-summary",
+    "href": "posts/welcome/index.html#executive-summary",
+    "title": "People Are Living Longer Than Ever",
+    "section": "",
+    "text": "This report highlights the dramatic increase in global average life expectancy, from 32 years in 1900 to 71 years in 2021. This increase is primarily due to advancements in medical care and living standards. The analysis includes gender differences, continental variations, and provides deeper insights into the data. “This remarkable difference can be attributed to advancements in medical care, improvements in living standards, and other factors (Cutler, Deaton, & Lleras-Muney, 2006).” This report utilizes data from Our World in Data and applies the data cleaning methods provided by TidyTuesday for analysis. It covers several key points, including the gender gap in life expectancy, the growth in average life expectancy across the five continents, and an analysis of life expectancy across different continents, providing readers with a deeper understanding of these data."
+  },
+  {
+    "objectID": "posts/welcome/index.html#introduction",
+    "href": "posts/welcome/index.html#introduction",
+    "title": "People Are Living Longer Than Ever",
+    "section": "Introduction",
+    "text": "Introduction\nLife expectancy is a crucial issue in assessing global development and health. Over the past century, factors such as advancements in medical care, improvements in public health, and reductions in conflict have significantly impacted life expectancy. Understanding these changes can aid in adapting future policies and improving living conditions. This report will analyze changes in life expectancy over the past hundred years, differences between genders, and variations in life expectancy across different continents."
+  },
+  {
+    "objectID": "posts/welcome/index.html#key-result",
+    "href": "posts/welcome/index.html#key-result",
+    "title": "People Are Living Longer Than Ever",
+    "section": "Key result",
+    "text": "Key result\n\n1. Global Life Expectancy Has Increased Dramatically Over the Past Century\nAs shown in Figure 1, global life expectancy increased from approximately 40 years in 1900 to over 70 years in 2021, a clear indicator of improved public health and living standards globally. This upward trend reflects major advancements in public health, medical care, and overall living conditions across the world. Notably, there was a sharp dip around the mid-20th century, likely due to global conflicts such as World War II. However, the general trajectory continued to rise afterward, showing resilience and recovery, especially in the latter half of the century.\n\n\n\n\n\n\n\n\n\n\nFigure 1: Global Average Life Expectancy Over the Past Century\n\n\n\n2. Women live longer than men\nThe Figure 2 illustrates the trend in life expectancy differences between sexes over the 70 years. Starting from the 1950s, the gap began to widen, with a noticeable peak in the 1970s, where women consistently outlived men. The life expectancy gap between men and women widened in the mid-20th century, largely due to higher rates of smoking, alcohol consumption, and occupational hazards among men, which increased their mortality from heart disease and other chronic conditions​ (JAMA Network, 2024). This increase can be attributed to advancements in healthcare, particularly for women, alongside higher-risk behaviors in men, such as smoking and alcohol consumption. In recent years, the gap has slightly expanded, with the most recent data indicating a sustained divergence in life expectancy between men and women.\n\n\n\n\n\n\n\n\n\n\nFigure 2: Life Expectancy Difference Between Sexes\n\n\n\n3. Differences Across the Five Continents in 2021\nIn 2021, life expectancy varied widely across continents due to differences in healthcare, economic stability, and social conditions. Africa reported the lowest figures, largely driven by limited healthcare access and high disease rates. Asia displayed a wide gap, with East Asia leading globally while South and Central Asia lagged behind due to economic and political challenges. Europe had the highest life expectancy, thanks to its advanced healthcare and social welfare systems. North America maintained relatively high averages, though disparities in the U.S. impacted the overall figure. South America showed moderate progress but still faced inequalities affecting longevity.\n\n\n\n\n\n\n\n\n\n\nFigure 3: World’s Life Expectancy in 2021"
+  },
+  {
+    "objectID": "posts/welcome/index.html#data-sources",
+    "href": "posts/welcome/index.html#data-sources",
+    "title": "People Are Living Longer Than Ever",
+    "section": "Data Sources:",
+    "text": "Data Sources:\nThe data was sourced from TidyTuesday’s repository (2023-12-05). The dataset contains life expectancy information across different countries and time periods, sourced from “Our World in Data.”"
+  },
+  {
+    "objectID": "posts/welcome/index.html#problem-description",
+    "href": "posts/welcome/index.html#problem-description",
+    "title": "People Are Living Longer Than Ever",
+    "section": "",
+    "text": "Why are people living so much longer now? A hundred years ago, the average lifespan was 40 years, and now it’s over 70. This blog explores the reasons behind this rise. We’ll also look at how men and women are experiencing this trend differently and how various regions of the world compare."
+  },
+  {
+    "objectID": "posts/welcome/index.html#data-description",
+    "href": "posts/welcome/index.html#data-description",
+    "title": "People Are Living Longer Than Ever",
+    "section": "Data Description",
+    "text": "Data Description\nTo get a clearer picture, I used data from TidyTuesday’s repository (2023-12-05). The dataset contains life expectancy information across different countries and time periods, sourced from “Our World in Data.”. This dataset provides information on life expectancy trends across various countries and regions over time. It includes key variables such as average life expectancy at birth and the gender gap in life expectancy, showing how long people are expected to live and how these patterns differ between men and women. The data is described in the Table 1 below.\n\n\n\n\nTable 1: Varible Description\n\n\n\n\nData Dictionary\n\n\nVariable\nDescription\n\n\n\n\nEntity\nCountry or region entity\n\n\nCode\nEntity code\n\n\nYear\nYear\n\n\nLifeExpectancy\nPeriod life expectancy at birth - Sex: all - Age: 0\n\n\nLifeExpectancyDiffFM\nLifeExpectancyDiffFM: The difference in life expectancy between men and women (measured in years)."
+  },
+  {
+    "objectID": "posts/welcome/index.html#data-cleaning-steps",
+    "href": "posts/welcome/index.html#data-cleaning-steps",
+    "title": "People Are Living Longer Than Ever",
+    "section": "Data Cleaning Steps:",
+    "text": "Data Cleaning Steps:\nHere are the three steps I used to clean up the data, following the methods provided by TidyTuesday:\n\nFiltered the data to include only records from 1900 onwards, ensuring the analysis focuses on the most relevant time period.\nRemoved countries with missing life expectancy values to ensure accuracy and consistency in the analysis.\nRenamed key columns (e.g., renaming the life expectancy column) to make the dataset easier to interpret and work with in subsequent analysis.\n\n\n# Code to load and clean data\nlife_expectancy &lt;- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2023/2023-12-05/life_expectancy.csv') \ncolnames(life_expectancy)[4] &lt;- \"LifeExpectancy\"\n\nlife_expectancy_female_male &lt;-\nreadr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2023/2023-12-05/life_expectancy_female_male.csv')\ncolnames(life_expectancy_female_male)[4] &lt;- \"LifeExpectancyDiffFM\"\n\n\n1. Life Expectancy Has Skyrocketed in the Last Century\nTake a look at Figure 1. It shows how life expectancy has shot up from about 40 years in 1900 to over 70 years in 2021. This massive improvement is mostly thanks to better healthcare, higher living standards, and fewer wars. Sure, there were some dips—like during World War II—but overall, the trend has been upward. It’s amazing to see how far we’ve come in just a hundred years!\n\n\n\n\n\n\n\n\nFigure 1: World Average Life Expectancy Over Time\n\n\n\n\n\n\n\n2. Women Outlive Men\nIt’s no secret that women tend to live longer than men. Figure 2 highlights the difference in life expectancy between the sexes over the last 70 years. Starting from the 1950s, women began to outlive men by a noticeable margin, and the gap peaked in the 1970s. Why? Well, it turns out men tend to take more risks—smoking, drinking, and dangerous jobs—all of which have higher health risks. Women, on the other hand, tend to engage in fewer risky behaviors and have better access to healthcare, which contributes to their longer lives (JAMA Network, 2024).\n\n\n\n\n\n\n\n\nFigure 2: Average Life Expectancy Difference Between Sexes\n\n\n\n\n\n\n\n3. Big Differences Between Continents in 2021\nEven though global life expectancy has risen overall, there are still some huge differences between regions. As you can see in Figure 3 , Africa has the lowest life expectancy, mainly because of healthcare challenges and high disease rates. Meanwhile, Europe leads the pack with the highest life expectancy, thanks to excellent healthcare and social services. North America also fares well, though the U.S. drags down the average a bit due to healthcare disparities. South America and Asia show steady progress but still have some gaps compared to other continents.\n\n\n\n\n\n\n\n\nFigure 3: World’s Life Expectancy in 2021"
+  },
+  {
+    "objectID": "posts/welcome/index.html#conclusion",
+    "href": "posts/welcome/index.html#conclusion",
+    "title": "People Are Living Longer Than Ever",
+    "section": "Conclusion",
+    "text": "Conclusion\nLife expectancy has increased thanks to better healthcare and living conditions. However, regions like Africa still face challenges with healthcare access. It’s crucial that future efforts focus on closing these gaps so everyone can benefit equally.\nThe gap between men and women is also worth noting—women generally outlive men due to a mix of biology and lifestyle. As we move forward, addressing these disparities will be key to ensuring healthier, longer lives for all."
+  },
+  {
+    "objectID": "posts/welcome/index.html#reference",
+    "href": "posts/welcome/index.html#reference",
+    "title": "People Are Living Longer Than Ever",
+    "section": "Reference",
+    "text": "Reference\n\nCutler, D. M., Deaton, A. S., & Lleras-Muney, A. (2006). The determinants of mortality. Journal of Economic Perspectives, 20(3), 97-120. https://doi.org/10.1257/jep.20.3.97\nJAMA Network. (2024). Life expectancy gap grows between men and women in the US. Substance Use and Addiction Medicine. https://jamanetwork.com​:contentReferenceoaicite:0.\nTidyTuesday. (2023, December 5). Life expectancy dataset. GitHub. https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-12-05/readme.md\nRoser, M., Ortiz-Ospina, E., & Ritchie, H. (2023). Life expectancy. Our World in Data. https://ourworldindata.org/life-expectancy?insight=there-are-wide-differences-in-life-expectancy-around-the-world#key-insights"
+  }
+]
